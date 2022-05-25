@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ece-app",
+    "name": "En cuanto esta",
     "slug": "ece-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,10 +23,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.david17art.eceapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Esta es una aplicacion que muestra el valor de diferentes monedas",
+    "githubUrl": "https://github.com/soydavidarteaga/en-cuanto-esta-app"
   }
 }
